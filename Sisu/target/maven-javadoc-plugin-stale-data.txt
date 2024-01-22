@@ -1,0 +1,55 @@
+@options
+@packages
+@argfile
+--class-path
+'/home/tobsu/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13.jar:/home/tobsu/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13.jar:/home/tobsu/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13.jar:/home/tobsu/.m2/repository/org/json/json/20180130/json-20180130.jar'
+--module-path
+'/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/classes:/home/tobsu/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13-linux.jar:/home/tobsu/.m2/repository/com/google/code/gson/gson/2.9.0/gson-2.9.0.jar:/home/tobsu/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13-linux.jar:/home/tobsu/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13-linux.jar'
+--patch-module
+fi.tuni.prog3.sisu='/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+--module-source-path
+'/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Sisu 1.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Sisu 1.0 API'
+fi.tuni.prog3.sisu
+'/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/src/main/java/module-info.java'
+/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs/member-search-index.zip = 1670942855163
+/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs/member-search-index.js = 1670942855163
+/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs/deprecated-list.html = 1670942855123
+/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs/index.html = 1670942855179
+/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs/search.js = 1670942855187
+/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs/module-search-index.js = 1670942855155
+/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs/type-search-index.zip = 1670942855163
+/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs/index-all.html = 1670942855163
+/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs/allclasses-index.html = 1670942855175
+/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs/package-search-index.js = 1670942855159
+/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs/element-list = 1670942855003
+/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs/overview-tree.html = 1670942855115
+/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs/package-search-index.zip = 1670942855159
+/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs/script.js = 1670942855183
+/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs/module-search-index.zip = 1670942855159
+/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs/help-doc.html = 1670942855179
+/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs/constant-values.html = 1670942855043
+/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs/allpackages-index.html = 1670942855175
+/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs/stylesheet.css = 1670942855183
+/home/tobsu/koulusetit/ohjelmointi3/group2491/Sisu/target/site/apidocs/type-search-index.js = 1670942855163
